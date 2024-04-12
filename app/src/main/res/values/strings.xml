@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">Study English For Kids</string>
+    <string name="learn_exciting">Học tập thú vị với ứng dụng!</string>
+    <string name="brutal_developer">Developers</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="Buy_us_a_cup_of_coffee">Mua cho chúng tôi một tách cà phê nhé!</string>
+    <string name="donate">Donate</string>
+    <string name="press_the_button_to_start_learning_and_games">Nhấn nút để bắt đầu học tập và chơi game</string>
+    <string name="animal">Động vật</string>
+    <string name="profile">hồ sơ</string>
+    <string name="klik_tombol_yang_ada_untuk_memulai_belajar_bermain_games_dan_lainnya">Nhấn nút để bắt đầu học, chơi game và hơn thế nữa</string>
+    <string name="learn_alphabet">Học bảng chữ cái</string>
+    <string name="learn_color">Tìm hiểu màu sắc</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="color_game">Trò chơi màu sắc</string>
+    <string name="game_quiz">Trò Chơi đố vui</string>
+    <string name="start">bắt đầu</string>
+    <string name="greenColor">màu xanh lá</string>
+    <string name="redColor">màu đỏ</string>
+    <string name="blueColor">màu xanh da trời</string>
+    <string name="difficult_question">Câu hỏi khó nhất đối với bạn...</string>
+    <string name="ResultA">Đáp án A</string>
+    <string name="resultB">Đáp án B</string>
+    <string name="resultC">Đáp án C</string>
+    <string name="resultD">Đáp án D</string>
+    <string name="d">D</string>
+    <string name="continueContent">tiếp tục</string>
+    <string name="share">Chia sẻ</string>
+    <string name="returnContent">Trở lại</string>
+    <string name="warningContent">cảnh báo</string>
+    <string name="warningQuestion">Bạn chưa hoàn thành bài kiểm tra này, bạn có muốn rời đi không?</string>
+    <string name="YesBack">Có, quay lại</string>
+    <string name="noReturn">không trở lại</string>
+    <string name="game">Trò chơi</string>
+    <string name="quiz">Câu Đố</string>
+    <string name="colorMix">Trộn Màu</string>
+    <string name="help">Giúp đỡ</string>
+    <string name="contactDeveloper">Bạn có thể liên hệ với nhà phát triển để quyên góp (có thể tìm thấy thông tin liên hệ trong hồ sơ nhà phát triển ở trên)</string>
+    <string name="Alphabet">Bảng Chữ Cái</string>
+    <string name="instruductionDeveloper">I am an android developer from HCM City who is interested in learning and exploring new things to improve my skills</string>
+    <string name="so_hai">So Hai</string>
+    <string name="so_mot">So Mot</string>
+    <string name="so_ba">So Ba</string>
+    <string name="yellowContent">Màu Vàng</string>
+    <string name="android_developer">Android Developer</string>
+    <string name="contact_developer">You can contact the developer to donate (contact can be found in the developer profile above)</string>
+    <string name="android_dev">Android Dev</string>
+    <string name="help_content">Nhấn vào màu bạn muốn chọn để nghe cách phát âm của màu đó bằng tiếng Anh kèm theo hình ảnh ví dụ bên cạnh</string>
+</resources>
